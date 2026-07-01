@@ -16,7 +16,7 @@
 
 > I engineer the invisible — the firmware, the real-time logic, the silicon-level thinking that makes hardware come alive.
 
-I'm a **3rd-year Electronics & Communication Engineering student** with a razor-sharp focus on embedded systems. I don't just write code — I design systems that operate under real-world constraints: tight timing budgets, limited memory, and zero tolerance for failure.
+I'm a **4th-year Electronics & Communication Engineering student** with a razor-sharp focus on embedded systems. I don't just write code — I design systems that operate under real-world constraints: tight timing budgets, limited memory, and zero tolerance for failure.
 
 My work lives at the intersection of **bare-metal programming**, **RTOS-based architectures**, and **AI at the edge** — building things that are not just functional, but robust, deterministic, and efficient.
 
