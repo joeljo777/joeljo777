@@ -150,15 +150,6 @@ A closed-loop autonomous robot that tracks a line path with precision using a tu
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joeljo777&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joeljo777&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joeljo777&theme=tokyonight" height="180"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeljo777&theme=tokyonight&hide_border=true"/>
 
 <br/>
