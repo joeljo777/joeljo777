@@ -1,160 +1,201 @@
-﻿# Hi there, I'm Joel ≡ƒæï
+<div align="center">
 
-## ≡ƒÜÇ Embedded Systems | Electronics Engineer | AI Hardware Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,100:E7352C&height=200&section=header&text=Joel%20Jo&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20ECE%203rd%20Year&descAlignY=58&descAlign=50" width="100%"/>
 
-I'm a **3rd-year Electronics & Communication Engineering student** passionate about designing intelligent embedded systems that bridge hardware and software.
+</div>
 
-My interests include:
+<div align="center">
 
-* ΓÜí Embedded Systems
-* ≡ƒñû Embedded AI & Edge Computing
-* ≡ƒ¢á∩╕Å Embedded C / C++
-* ≡ƒöî IoT Systems
-* ≡ƒôí ARM Microcontrollers (STM32, ESP32, Raspberry Pi Pico)
-* ≡ƒºá FreeRTOS & Real-Time Systems
-* ≡ƒÆ╗ FPGA & Digital Design
-* ≡ƒôè Signal Processing
-* ≡ƒÜù Automotive Embedded Systems
-* ≡ƒö¼ VLSI & Hardware Design
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+Hardware+Systems;Embedded+C+%7C+RTOS+%7C+ARM+%7C+FPGA+%7C+Edge+AI)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## ≡ƒ¢á Tech Stack
+## ⚡ About Me
 
-### Languages
+> I engineer the invisible — the firmware, the real-time logic, the silicon-level thinking that makes hardware come alive.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+I'm a **3rd-year Electronics & Communication Engineering student** with a razor-sharp focus on embedded systems. I don't just write code — I design systems that operate under real-world constraints: tight timing budgets, limited memory, and zero tolerance for failure.
+
+My work lives at the intersection of **bare-metal programming**, **RTOS-based architectures**, and **AI at the edge** — building things that are not just functional, but robust, deterministic, and efficient.
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### ⚙️ Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-004482?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Embedded Platforms
+### 🔌 Embedded Platforms
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Tools
+### 🛠️ Tools & Environments
 
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Simulink](https://img.shields.io/badge/Simulink-orange?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6B00?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-FF6B00?style=for-the-badge)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-## ≡ƒö¡ Current Focus
+## 🚀 Featured Projects
 
-* Building real-world Embedded Systems projects
-* Learning advanced STM32 development
-* Exploring FreeRTOS and Automotive Embedded Systems
-* FPGA-based AI acceleration
-* Embedded Linux & Edge AI
-* Data Structures & Algorithms
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Smart Robotic Hand — Health Monitor
+> **ESP32 · MAX30102 · MPU6050 · OLED · Wi-Fi**
+
+A wearable health monitoring glove that tracks pulse oximetry, EMG muscle activity, and motion data in real time — streamed live to a Wi-Fi dashboard and displayed on an OLED interface.
+
+**Key Highlights:**
+- Real-time biosignal acquisition & display
+- Wireless data streaming over Wi-Fi
+- Multi-sensor fusion (pulse, motion, EMG)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚦 Priority Traffic Light System
+> **Raspberry Pi Pico · HC-12 RF · Embedded C**
+
+An RF-based intelligent traffic management system that detects emergency vehicles and dynamically reallocates signal priority — reducing response time with deterministic switching logic.
+
+**Key Highlights:**
+- Emergency vehicle priority via RF signaling
+- Real-time signal state machine
+- Inter-node wireless communication
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💥 Airbag Management System
+> **Embedded C · FreeRTOS · ISR · IPC**
+
+A safety-critical embedded application simulating an automotive airbag controller. Built with FreeRTOS task scheduling, hardware interrupt handling, and inter-process communication — meeting deterministic real-time constraints.
+
+**Key Highlights:**
+- Deterministic RTOS-based scheduling
+- Hardware interrupt-driven collision detection
+- IPC for fault isolation & safe deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Parkinson's Disease Monitoring System
+> **EMG · MPU6050 · Signal Processing**
+
+A non-invasive diagnostic aid that analyzes EMG signals and IMU tremor data to monitor Parkinson's symptoms. Designed for real-time acquisition and medical-grade signal processing.
+
+**Key Highlights:**
+- Tremor detection via IMU + EMG fusion
+- Real-time signal analysis pipeline
+- Medical-grade monitoring design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+### 🤖 PID Line Following Robot
+> **PID Controller · IR Sensor Array · Motor Driver**
+
+A closed-loop autonomous robot that tracks a line path with precision using a tuned PID controller and IR sensor array — achieving smooth, responsive trajectory correction at variable speeds.
+
+**Key Highlights:**
+- Real-time PID tuning & motor control
+- IR array-based path sensing
+- Closed-loop feedback navigation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ≡ƒÜÇ Featured Projects
+## 📡 Current Focus
 
-### ≡ƒ⌐║ Smart Robotic Hand Health Monitoring System
-
-* ESP32-based health monitoring
-* OLED dashboard
-* MAX30102 pulse oximeter
-* EMG sensing
-* MPU6050 motion tracking
-* Wi-Fi dashboard integration
-
-### ≡ƒÜª Priority Traffic Light System
-
-* Raspberry Pi Pico
-* HC-12 RF Communication
-* Emergency vehicle priority management
-* Real-time signal switching
-
-### ≡ƒÆÑ Airbag Management System
-
-* Embedded C
-* FreeRTOS
-* Hardware Interrupts
-* IPC
-* Deterministic real-time scheduling
-
-### ≡ƒñû PID Line Following Robot
-
-* PID Controller
-* IR Sensor Array
-* Motor Driver Control
-* Closed-loop navigation
-
-### ≡ƒºá Parkinson's Disease Monitoring System
-
-* EMG Signal Processing
-* MPU6050 IMU
-* Tremor analysis
-* Real-time monitoring
+```
+┌─────────────────────────────────────────────────────┐
+│  🔧  Advanced STM32 (Timers, DMA, Communication)    │
+│  🚗  Automotive Embedded — AUTOSAR Architecture     │
+│  🐧  Embedded Linux & Custom Device Drivers         │
+│  🧠  Edge AI / TinyML on Microcontrollers           │
+│  🔷  FPGA-based Signal Processing & AI Accelerators │
+│  📐  VLSI Design Flow & Design for Testability      │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
-## ≡ƒî▒ Currently Learning
+## 📊 GitHub Stats
 
-* AUTOSAR
-* Embedded Linux
-* Device Drivers
-* Advanced FreeRTOS
-* ARM Cortex-M Architecture
-* VLSI Design Flow
-* Design for Testability (DFT)
+<div align="center">
 
----
-
-## ≡ƒôê GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joeljo777&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joeljo777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeljo777&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeljo777&theme=tokyonight&hide_border=true"/>
-</p>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joeljo777&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+
+</div>
 
 ---
 
-## ≡ƒÆí Interests
+## 🤝 Open to Collaborate
 
-* Embedded Systems
-* Automotive Electronics
-* Embedded AI
-* IoT
-* Robotics
-* FPGA Development
-* Medical Electronics
-* Computer Vision on Edge Devices
+I'm actively looking to collaborate on:
 
----
+- 🔩 **Embedded Systems** — bare-metal or RTOS-based projects
+- 🚗 **Automotive Embedded** — AUTOSAR, CAN, LIN, diagnostics
+- 🤖 **Robotics** — control systems, sensor fusion, autonomy
+- 🧠 **Edge AI / TinyML** — inference on constrained hardware
+- 🔷 **FPGA Development** — digital design, hardware acceleration
+- 🌐 **Open Source Embedded** — firmware libraries & drivers
 
-## ≡ƒñ¥ Open to Collaborate On
-
-* Embedded Systems Projects
-* STM32 Development
-* ESP32 Applications
-* IoT Solutions
-* Robotics
-* AI on Edge Devices
-* Open Source Embedded Projects
+If you're building something in the embedded space and need a hardware-minded collaborator — let's talk.
 
 ---
 
-## ≡ƒô½ Connect With Me
+## 📫 Connect With Me
 
-* ≡ƒÆ╝ LinkedIn: *Add your profile link*
-* ≡ƒôº Email: *Add your email*
-* ≡ƒîÉ Portfolio: *Coming Soon*
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+</div>
 
 ---
 
-> *"Turning ideas into intelligent hardwareΓÇöone microcontroller at a time."* ΓÜí
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7352C,100:03234B&height=120&section=footer" width="100%"/>
+
+*"The best embedded systems are the ones nobody notices — because they just work."* ⚡
+
+</div>
