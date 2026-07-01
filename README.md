@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,100:E7352C&height=200&section=header&text=Joel%20Jo&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20ECE%204th%20Year&descAlignY=58&descAlign=50" width="100%"/>
+<img src="assets/banner.png" width="100%" alt="Joel Jo — Embedded Systems Engineer | ECE 4th Year"/>
 
 </div>
 
