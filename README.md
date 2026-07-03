@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,100:E7352C&height=200&section=header&text=Joel%20Jo&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20ECE%203rd%20Year&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,100:E7352C&height=200&section=header&text=Joel%20Jo&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20ECE%204th%20Year&descAlignY=58&descAlign=50" width="100%"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 > I engineer the invisible — the firmware, the real-time logic, the silicon-level thinking that makes hardware come alive.
 
-I'm a **3rd-year Electronics & Communication Engineering student** with a razor-sharp focus on embedded systems. I don't just write code — I design systems that operate under real-world constraints: tight timing budgets, limited memory, and zero tolerance for failure.
+I'm a **4th-year Electronics & Communication Engineering student** with a razor-sharp focus on embedded systems. I don't just write code — I design systems that operate under real-world constraints: tight timing budgets, limited memory, and zero tolerance for failure.
 
 My work lives at the intersection of **bare-metal programming**, **RTOS-based architectures**, and **AI at the edge** — building things that are not just functional, but robust, deterministic, and efficient.
 
@@ -140,7 +140,6 @@ A closed-loop autonomous robot that tracks a line path with precision using a tu
 │  🐧  Embedded Linux & Custom Device Drivers         │
 │  🧠  Edge AI / TinyML on Microcontrollers           │
 │  🔷  FPGA-based Signal Processing & AI Accelerators │
-│  📐  VLSI Design Flow & Design for Testability      │
 └─────────────────────────────────────────────────────┘
 ```
 
