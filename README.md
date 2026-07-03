@@ -136,7 +136,7 @@ A closed-loop autonomous robot that tracks a line path with precision using a tu
 ```
 ┌─────────────────────────────────────────────────────┐
 │  🔧  Advanced STM32 (Timers, DMA, Communication)    │
-│  🚗  Automotive Embedded — AUTOSAR Architecture     │
+│  🚗  Automotive Embedded — CAN, LIN, Diagnostics    │
 │  🐧  Embedded Linux & Custom Device Drivers         │
 │  🧠  Edge AI / TinyML on Microcontrollers           │
 │  🔷  FPGA-based Signal Processing & AI Accelerators │
@@ -165,7 +165,7 @@ A closed-loop autonomous robot that tracks a line path with precision using a tu
 I'm actively looking to collaborate on:
 
 - 🔩 **Embedded Systems** — bare-metal or RTOS-based projects
-- 🚗 **Automotive Embedded** — AUTOSAR, CAN, LIN, diagnostics
+- 🚗 **Automotive Embedded** — CAN, LIN, diagnostics
 - 🤖 **Robotics** — control systems, sensor fusion, autonomy
 - 🧠 **Edge AI / TinyML** — inference on constrained hardware
 - 🔷 **FPGA Development** — digital design, hardware acceleration
