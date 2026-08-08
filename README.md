@@ -150,7 +150,7 @@ A closed-loop autonomous robot that tracks a line path with precision using a tu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=joeljo777&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&v=1"/>
+<img src="https://streak-stats.demolab.com?user=joeljo777&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&v=2"/>
 
 <br/>
 
