@@ -59,15 +59,16 @@ My work lives at the intersection of **bare-metal programming**, **RTOS-based ar
 <tr>
 <td width="50%" valign="top">
 
-### 🦾 Smart Robotic Arm — Health Monitor
-> **ESP32 · MAX30102 · MPU6050 · OLED · Wi-Fi**
+### 🩺 Robotic Hand Vitals Monitor & Control System
+> **ESP32 · MAX30102 · Servo Kinematics · WebSerial · MQTT**
 
-An intelligent robotic arm system that tracks pulse oximetry, EMG muscle activity, and motion data in real time — streamed live to a Wi-Fi dashboard and displayed on an OLED interface.
+An interactive healthcare automation platform combining 3D-printed tendon-driven finger robotics, optical bio-sensing, and dual telemetry (WebSerial API & Adafruit IO MQTT). Features an automated 6-stage FSM workflow, real-time vitals monitoring (BPM, SpO₂, Temp), failsafe protection, and a 5-page glassmorphism web dashboard.
 
 **Key Highlights:**
-- Real-time biosignal acquisition & display
-- Wireless data streaming over Wi-Fi
-- Multi-sensor fusion (pulse, motion, EMG)
+- Automated hand detection & 6-stage FSM cycle
+- Tendon-driven finger kinematics with 30s failsafe protection
+- Dual telemetry via WebSerial API & Adafruit IO MQTT
+- 5-page web dashboard with 3D render & CSV/Log export
 
 </td>
 <td width="50%" valign="top">
