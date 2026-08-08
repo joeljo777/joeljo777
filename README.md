@@ -59,10 +59,10 @@ My work lives at the intersection of **bare-metal programming**, **RTOS-based ar
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 Smart Robotic Hand — Health Monitor
+### 🦾 Smart Robotic Arm — Health Monitor
 > **ESP32 · MAX30102 · MPU6050 · OLED · Wi-Fi**
 
-A wearable health monitoring glove that tracks pulse oximetry, EMG muscle activity, and motion data in real time — streamed live to a Wi-Fi dashboard and displayed on an OLED interface.
+An intelligent robotic arm system that tracks pulse oximetry, EMG muscle activity, and motion data in real time — streamed live to a Wi-Fi dashboard and displayed on an OLED interface.
 
 **Key Highlights:**
 - Real-time biosignal acquisition & display
