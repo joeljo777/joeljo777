@@ -150,11 +150,17 @@ A closed-loop autonomous robot that tracks a line path with precision using a tu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=joeljo777&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&v=2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joeljo777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=joeljo777&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" height="165"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeljo777&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=joeljo777&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
